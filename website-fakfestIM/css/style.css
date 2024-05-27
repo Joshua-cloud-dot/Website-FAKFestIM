@@ -157,9 +157,10 @@ header nav ul li:hover {
 /*About******************************************************************************************************************/
 
 #about {
-    background-image: url("../Bierdatei/hgbierhell4.png");
-    background-position: center center;
-    background-size: cover;
+    background-image: url("../Bierdatei/bier4.png");
+    background-position: center;
+    background-blend-mode: hard-light;
+    background-size: 90%;
     background-attachment: fixed;
 }  
 
