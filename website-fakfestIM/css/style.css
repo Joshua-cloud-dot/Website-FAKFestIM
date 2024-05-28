@@ -160,6 +160,7 @@ header nav ul li:hover {
     background-image: url("../Bierdatei/bier4.png");
     background-position: center;
     background-blend-mode: hard-light;
+    background-repeat: no-repeat;
     background-size: 90%;
     background-attachment: fixed;
 }  
