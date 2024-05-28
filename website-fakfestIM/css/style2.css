@@ -8,7 +8,7 @@ html, body {
 
 section {
    min-height: 100%; 
-   background-color: #6e75e0;
+   background-color: #9791de;
 }
 
 
@@ -28,7 +28,7 @@ li {
 h1, h2, a {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
-    color: #b72025;
+    color: #e1edeb;
     text-transform: uppercase;
     margin: 0;
 }
@@ -70,7 +70,7 @@ header {
     position: fixed;
     top: 0;
     left: 0;
-    background: #dcd5b9;
+    background: #9983d3;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
     z-index: 1;
 }
@@ -160,6 +160,7 @@ header nav ul li:hover {
     background-image: url("../Bierdatei/bier4.png");
     background-position: center;
     background-blend-mode: hard-light;
+    background-repeat: no-repeat;
     background-size: 90%;
     background-attachment: fixed;
 }  
@@ -238,7 +239,7 @@ header nav ul li:hover {
 /*Sponsoren******************************************************************************************************************/
 
 #sponsoren {
-    background-color: #f1eedd;
+    background-color: #8e8ee0;
 }
 
 #sponsoren {
