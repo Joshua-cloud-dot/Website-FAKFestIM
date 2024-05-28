@@ -8,7 +8,7 @@ html, body {
 
 section {
    min-height: 100%; 
-   background-color: #9791de;
+   background-color: #3e90fa;
 }
 
 
@@ -28,7 +28,7 @@ li {
 h1, h2, a {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
-    color: #e1edeb;
+    color: #00115b;
     text-transform: uppercase;
     margin: 0;
 }
@@ -70,7 +70,7 @@ header {
     position: fixed;
     top: 0;
     left: 0;
-    background: #9983d3;
+    background: #5b91f1;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
     z-index: 1;
 }
@@ -119,7 +119,7 @@ header nav ul li:hover {
 /*Home******************************************************************************************************************/
 
 #home {
-    background-image: url("../Wellen/Hintergrund.png");
+    background-image: url("../Wellen/Hintergrund1.png");
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
@@ -157,7 +157,7 @@ header nav ul li:hover {
 /*About******************************************************************************************************************/
 
 #about {
-    background-image: url("../Bierdatei/bier4.png");
+    background-image: url("../Bierdatei/bier5.png");
     background-position: center;
     background-blend-mode: hard-light;
     background-repeat: no-repeat;
