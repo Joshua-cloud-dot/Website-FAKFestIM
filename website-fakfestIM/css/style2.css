@@ -498,7 +498,7 @@ footer p {
 
 /* Mobile */ 
  
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 768px) {
 
     #logo {
         width: 90px;
