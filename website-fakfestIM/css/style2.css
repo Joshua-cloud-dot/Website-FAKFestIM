@@ -157,7 +157,7 @@ header nav ul li:hover {
 /*About******************************************************************************************************************/
 
 #about {
-    background-image: url("../Bierdatei/bier5.png");
+    /* background-image: url("../Bierdatei/bier5.png"); */
     background-position: center;
     background-blend-mode: hard-light;
     background-repeat: no-repeat;
@@ -565,7 +565,7 @@ footer p {
         height: auto;
     }
 
-    #about img:first-child {
+    #about img {
         display: none;
     }
 
