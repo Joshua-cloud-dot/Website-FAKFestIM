@@ -562,7 +562,7 @@ footer p {
         height: auto;
     }
 
-    #about img:first-child {
+    #about img{
         display: none;
     }
     
