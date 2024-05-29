@@ -510,7 +510,7 @@ footer p {
         float: none;
     }
 
-    .fa-bars {
+    /* .fa-bars {
         font-size: 20px;
         display: inline-block;
         cursor: pointer;
@@ -522,7 +522,7 @@ footer p {
     
     .fa-bars:hover {
         opacity: 0.5;
-    } 
+    }  */
 
     header nav ul {
         height: 0;
@@ -563,6 +563,10 @@ footer p {
     #sponsoren img {
         width: 70%;
         height: auto;
+    }
+
+    #about img:first-child {
+        display: none;
     }
 
     
