@@ -504,6 +504,9 @@ footer p {
         width: 90px;
         margin-left: 30px;
     }
+    #home {
+        text-align: center;
+    }
 
     header nav {
         margin: 0;
@@ -556,7 +559,7 @@ footer p {
 
 
     #home h2 {
-        width: 70%;
+        width: 100%;
         height: auto;
     }
 
