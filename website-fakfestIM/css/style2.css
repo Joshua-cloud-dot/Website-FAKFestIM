@@ -497,7 +497,7 @@ footer p {
 
 
 /* Mobile */ 
-
+/* 
 @media screen and (max-width: 480px) {
 
     #logo {
@@ -517,7 +517,7 @@ footer p {
         text-align: right;
         float: right; 
         margin: 10px 30px 0 0;
-    } */s
+    } s
 
     
     .fa-bars:hover {
@@ -566,5 +566,5 @@ footer p {
     }
 
     
-}  
+}   */
 
