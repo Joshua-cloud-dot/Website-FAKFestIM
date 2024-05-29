@@ -554,12 +554,12 @@ footer p {
 
 
     #home h2 {
-        width: 70%;
+        width: auto;
         height: auto;
     }
 
     #sponsoren img {
-        width: 70%;
+        width:auto;
         height: auto;
     }
 
